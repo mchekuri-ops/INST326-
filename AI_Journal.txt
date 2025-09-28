@@ -35,3 +35,17 @@ Week of September 15- September 21, 2025.
 (Chat Link: https://chatgpt.com/share/68d07c4b-bcbc-800c-a54a-f42744fb1c9d)
 
 Reflection: This week I used AI mainly for creative and organizational purposes. It helped me brainstorm and strcuture ideas for the instagram takeover, as well as summarize study materials and clarify concepts in accounting. Having AI assist in multiple areas made tasks more efficient and helped me keep track of progress in both my academic and personal projects. Documenting these interactions helps make it easier to review my learning but also for planning for the future. 
+
+Week of September 22- September 28, 2025.
+
+I asked AI for help with SQL concepts, like understanding joins and unions, and it provided clear explanations with examples. 
+(Chat Link: https://chatgpt.com/share/68d9b421-5200-800c-8c24-34541123d95d)
+
+I worked on a repayment plan problem for students loans and had AI generate a monthly repayment table that I could export into excel and it made it easier to visualize payments while keeping within budget. 
+Chat Link (https://chatgpt.com/share/68d9b4a0-99fc-800c-af43-6832843d912b)
+
+I created slides for an upcoming Garba event with sponsor logos and FAQ's using AI to draft the wording and layout ideas. This saved time for when I had to put the slides together. 
+Chat Link (https://chatgpt.com/share/68d9b500-94c4-800c-bcc3-8bd8dddf7611)
+
+I asked AI for help drafting an email to my professor about a grade concern. It gave me a polite, professional template that I could edit quickly before sending. 
+Chat link (https://chatgpt.com/share/68d9b564-2e0c-800c-b41a-241828462ff1)
