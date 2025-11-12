@@ -111,3 +111,14 @@ Chat Link: (https://chatgpt.com/share/6910daa8-8744-800c-a170-f99a990f5d83)
 
 I used AI to help me figure out issues with my ipad and help me understand the issues, and how to fix it, and if I needed to take it into the Apple store. 
 Chat Link: (https://chatgpt.com/share/6910dae6-7b08-800c-860e-3bb8e7881c5c)
+
+Week of November 10, 2025
+
+I used ChatGPT to solve detailed cost variance and journal entry problems for Boron Chemical Company. It helped me double-check my standard cost system calculations for direct materials and direct labor without rounding errors. I also got guidance on how to record transactions correctly in the general journal.
+Chat Link: (https://chatgpt.com/share/6914be85-20bc-800a-8db3-81b819928013)
+
+While working on my MySQL lab, I was stuck on the “Forward Engineer” step in Workbench. ChatGPT walked me through each screen and explained which boxes to check and how to confirm my schema saved properly. This helped me finish Step 2 of the assignment successfully.
+Chat Link (https://chatgpt.com/share/6914beaa-4138-800a-ad0d-bd59124b9eda)
+
+For our Maryland Mayuri board reveal, I used ChatGPT to write a Mission Impossible-themed caption and plan the aesthetic using a red, white, and black color scheme. It helped make the post sound professional but still fun, matching our dance team’s vibe. 
+Chat Link: (https://chatgpt.com/share/6914bed2-503c-800a-a61b-45383ff4f5e0)
